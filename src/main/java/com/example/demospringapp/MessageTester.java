@@ -14,5 +14,6 @@ public class MessageTester {
         ConfigurableApplicationContext context = SpringApplication.run(MessageTester.class);
         MessagePrinter messagePrinter = context.getBean(MessagePrinter.class);
         messagePrinter.printMessage();
+        System.out.println("Hello world!");
     }
 }
