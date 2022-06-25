@@ -1,3 +1,6 @@
 spring:
   banner:
     location: logo.txt
+app:
+  message:
+    decorator: UPPERCASE
