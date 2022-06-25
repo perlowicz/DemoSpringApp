@@ -1,4 +1,4 @@
-package com.example.demospringapp;
+package com.example.demospringapp.producer;
 
 
 public interface MessageProducer {
