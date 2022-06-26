@@ -3,4 +3,4 @@ spring:
     location: logo.txt
 app:
   message:
-    decorator: UPPERCASE
+    decorator: LOWERCASE
